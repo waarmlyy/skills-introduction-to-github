@@ -1,64 +1,27 @@
-<header>
+ПРЕДВАРИТЕЛЬНЫЙ ПРОСМОТР
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+УЦЕНКА
 
-# Introduction to GitHub
+КОПИРОВАТЬ
+Привет, меня зовут Русанов Иван. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ================= =============================================== =============================================== ===================== Я начинаю разработчика,ищу сферу,где мне будет более интересно и продуктивно.Начал свой путь с базовыми определениями Python на уровне школьного и мне было интересно,что же такое GameDev и написал одну простую на C# и Unity.Затем перешел в университет игры и начал изучать язык C по программе, но кроме этого пробовал что то новое, затронул JavaScript, у меня был код на HTML голого сайта и было несколько идеи для сайта, которые я успешно воплотил. Еще сейчас изучаю старательно C++, т.к это функциональный язык, с которым можно практически работать во всех существах, пока в идеях переходят в Unreal Engine 5. * 🌍 Я живу в Н. * ✉️ Связаться со мной можно по адресу [rusanovv12@yandex.ru.](mailto:rusanovv12@yandex.ru)[](mailto:rusanovv12@yandex.ru) * 🧠 Я учусь у тебя * ⚡ О
 
-_Get started using GitHub in less than an hour._
+### Навыки
 
-</header>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src ="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />< /a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https:/ /raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/ readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> <a href="https://git- scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg " width="36" height="36" alt="Git" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target=" _blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height= "36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https:// raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href ="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons /skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36 " alt="Google Cloud" /></a> <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw. githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a> <a href="https: //dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons /skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+</p>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+### Социальные сети
 
-## Finish
+<p align="left"> </p> <a href="https://www.github.com/w" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает цветовую схему: темная)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: Light)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
+### Значки
 
-_Congratulations, you've completed this course and joined the world of developers!_
+<b>Моя статистика GitHub</b>
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<a href="http://www.github.com/waarmlyy"><img src="https://github-readme-stats.vercel.app/api?username=waarmlyy&show_icons=true&hide=&count_private=true&title_color=444e59&text_color =6366f1&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="статистика waarmlyy на GitHub" /></a>
 
-Here's a recap of your accomplishments:
+<a href="http://www.github.com/waarmlyy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=waarmlyy&stroke=6366f1&background=1c1917&ring=444e59&fire= 444e59&currStreakNum=6366f1&currStreakLabel=444e59&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+<a href="http://www.github.com/waarmlyy"><img src="https://github-readme-activity-graph.cycl.app/graph?username=waarmlyy&bg_color=1c1917&color=ffffff&line=facc15&point =ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### What's next?
-
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
-
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
-
-Check out these resources to learn more or get involved:
-
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<a href="https://github.com/waarmlyy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waarmlyy&langs_count =10&title_color=444e59&text_color=6366f1&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Лучшие языки" /></a>
